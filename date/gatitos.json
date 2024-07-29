@@ -1,0 +1,19 @@
+{
+    "gatitos": [
+        {
+            "id": 1,
+            "nombre": "Mishifu",
+            "raza": "Siames"
+        },
+        {
+            "id": 2,
+            "nombre": "Runa",
+            "raza": "Persa"
+        },   
+        {
+            "id": 3,
+            "nombre": "Caramelo",
+            "raza": "Sphynx"
+        }  
+    ]
+}
